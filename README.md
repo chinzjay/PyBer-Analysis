@@ -28,10 +28,9 @@ A multiple-line graph *(Fig 3)*(https://github.com/chinzjay/PyBer-Analysis/blob/
 |:--:|
 |Fig 3. Multi line graph of fares for each week by city type|
 
-### Analysis
+## Summary
 We can conclude from the above results that the number of rides and drivers are several folds higher in Urban than Rural and Suburban. The average fare per ride and per driver is higher in Rural and Suburban than Urban. We can infer that there is a negative relationship between the number of drivers and the average fares per ride/driver for each city type; Higher the number of drivers in the city, lesser the average fare per ride and per driver
 
-## Summary
 I would make the following recommendations to the Ms. V. Isualize, CEO for addressing the disparities among the city types.
 - The number of drivers in Suburban and Rural can be increased to lessen the average fare for the ride.
 - The fare per ride can be reduced in the Suburban and Rural areas to increase the number of riders.
