@@ -22,7 +22,11 @@ Using the pivot() function, loc method and resample() function a DataFrame *(Fig
 |:--:|
 |Fig 2. DataFrame created to show the sum of the fares for each week|
 
-A multiple-line graph (https://github.com/chinzjay/PyBer-Analysis/blob/main/analysis/PyBer_fare_summary.png) that shows the total weekly fares for each city type was plotted using the data from the DataFrame in *Fig 2*.
+A multiple-line graph *(Fig 3)*(https://github.com/chinzjay/PyBer-Analysis/blob/main/analysis/PyBer_fare_summary.png) that shows the total weekly fares for each city type was plotted using the data from the DataFrame in *Fig 2*.
+
+![multiline graph](https://github.com/chinzjay/PyBer-Analysis/blob/main/multiline%20graph.PNG)
+|:--:|
+|Fig 3. Multi line graph of fares for each week by city type|
 
 ### Analysis
 We can conclude from the above results that the number of rides and drivers are several folds higher in Urban than Rural and Suburban. The average fare per ride and per driver is higher in Rural and Suburban than Urban. We can infer that there is a negative relationship between the number of drivers and the average fares per ride/driver for each city type; Higher the number of drivers in the city, lesser the average fare per ride and per driver
