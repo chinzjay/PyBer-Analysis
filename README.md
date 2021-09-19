@@ -20,7 +20,7 @@ Using Pandas and MatPlotlib, the data files (https://github.com/chinzjay/PyBer-A
 Using the pivot() function, loc method and resample() function a DataFrame *(Fig 2)* was created to get the data in weekly bins and to show the sum of the fares for each week. 
 ![final DF](https://github.com/chinzjay/PyBer-Analysis/blob/main/final%20DF.PNG)
 |:--:|
-|Fig 2. DataFrame created to show the sum of the fares for each week|
+|Fig 2. Summary DataFrame of the sum of the fares for each week|
 
 A multiple-line graph *(Fig 3)*(https://github.com/chinzjay/PyBer-Analysis/blob/main/analysis/PyBer_fare_summary.png) that shows the total weekly fares for each city type was plotted using the data from the DataFrame in *Fig 2*.
 
